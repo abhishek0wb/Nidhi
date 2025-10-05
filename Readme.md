@@ -8,7 +8,8 @@ We are building a **secure, AI-powered financial companion** that automatically:
 - ✔ **Syncs & categorizes transactions from UPI** 📲
 - ✔ **Helps users budget & save smarter** 💡
 - ✔ **Provides AI-powered financial insights** 📊
-- ✔ **Advises on investments & tax savings** 📈
+- ✔ **Advises on tax savings** 📈
+- ✔ **Advises on investments** 📈
 
 ## 🔗 Join Us in Building the Future of Finance
 
