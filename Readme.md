@@ -16,4 +16,4 @@ We are building a **secure, AI-powered financial companion** that automatically:
 👉 Whether you want to **contribute code, invest, or collaborate**, we'd love to hear from you.
 
 - 📌 **Twitter:** [@abhishek0wb](https://twitter.com/abhishek0wb)
-- 📌 **Email:** abhishek0wb@gmail.com
+- 📌 **Email:** abhishek@gmail.com
